@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, MS Excel.**
 
-- 📫 How to reach me **naiyapatel71@gmail.com**
+- 📫 How to reach me **naiyajayeshpatel@gmail.com**
 
 - ⚡ Fun fact **I am fun-loving.**
 
