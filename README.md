@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to volunteer in **any projects to gain hands on experience and develop strong data analyst skills.**
 
-- 🤝 I’m looking for help with **finding volunteer projects.**
+- 🤝 I’m looking for help with **exploring opportunities to excel in this career.**
 
 - 👨‍💻 All of my projects are available [https://olympus.mygreatlearning.com/eportfolio?pb_id=17635](https://olympus.mygreatlearning.com/eportfolio?pb_id=17635)
 
