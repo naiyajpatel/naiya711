@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naiya Patel</h1>
-<h3 align="center">Aspiring Data Analyst from Canada with a Strong Pharmaceutical Background, Committed to Leveraging Data to Unlock Insights and Enhance Decision-Making.</h3>
+<h3 align="center">Data Analyst from Canada with a Strong Professional Background, Committed to Leveraging Data to Unlock Insights and Enhance Decision-Making.</h3>
 
-- 🔭 I’m currently working on **Developing Key Skills to Excel as a Data Analyst and Drive Data-Driven Decision Making**
+- 🔭 I’m currently working on **working**
 
-- 🌱 I’m currently learning **Python, My SQL, Postgres SQL, Tableau, POWER BI, Business Analytics and AI Machine learning skills.**
+- 🌱 I’m currently learning **Machine Learning, AI, Data modelling**
 
 - 👯 I’m looking to volunteer in **any projects to gain hands on experience and develop strong data analyst skills.**
 
