@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naiya Patel</h1>
 <h3 align="center">Data Analyst from Canada with a Strong Professional Background, Committed to Leveraging Data to Unlock Insights and Enhance Decision-Making.</h3>
 
-- 🔭 I’m currently working on **working**
+- 🔭 I’m currently working on **building a strong profile in data analysis through continuous learning and practical experience**
 
 - 🌱 I’m currently learning **Machine Learning, AI, Data modelling**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available [https://olympus.mygreatlearning.com/eportfolio?pb_id=17635](https://olympus.mygreatlearning.com/eportfolio?pb_id=17635)
 
-- 💬 Ask me about **Python, SQL, MS Excel.**
+- 💬 Ask me about **Python, SQL, MS Excel, Power BI, Tableau**
 
 - 📫 How to reach me **naiyajayeshpatel@gmail.com**
 
